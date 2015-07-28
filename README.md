@@ -1,1 +1,1 @@
-TODO
+This repo provies an [annotated version of the Rust Standard Library's lib.rs file](https://github.com/brson/annotated-std-rs/pull/1), which, by virtue of doing lots of wild stuff, is a valuable learning resource.
